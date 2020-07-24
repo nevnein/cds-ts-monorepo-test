@@ -1,0 +1,11 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "next": "latest"
+  },
+  "peerDependencies": {
+    "react": "^16.8.3"
+  }
+}
